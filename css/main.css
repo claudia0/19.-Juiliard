@@ -1,0 +1,60 @@
+
+
+.fondo{
+	background-image: url(../img/dance_1.jpg);
+	height: 300px; 
+	width:100%;
+	color: grey;
+
+}
+.textura{
+background-image: url(../img/textura_2.jpg);
+height: 100%;
+width:100%;	
+}
+.logo{
+	height: 15%;
+	width: 10%;
+	display: block;
+	position: relative;
+	left: 39%
+}
+.boton{
+	width: 300px;
+	border-radius: 5px;
+	padding: 15px;
+	margin: 5px;
+	background-color:darkblue; 
+	display: block;
+	position: relative;
+	left: 34%;
+}
+.altura-div{
+	height: 250px;
+}
+#fondo2{
+	background-image: url("../img/instructor_4.jpg"), url("../img/profesor_9.jpg");
+	background-position: left top, right top;
+	background-size: 50% auto; 
+	border:grey solid 2px;
+}
+.boton2{
+	
+}
+#frase{
+	font-family:Latolight;
+	font-size: 35px;
+	padding: 30px;
+	margin: 40px;
+}
+#fondo-azul{
+	background-color:#192951; 
+    color: white;
+    padding: 40px;
+
+}
+
+
+
+
+

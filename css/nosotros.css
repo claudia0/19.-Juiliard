@@ -1,0 +1,36 @@
+
+.fondo-dance{
+	background-image: url(../img/dance_7.jpg);
+	background-size: 100%;
+	height: 300px;
+	background-repeat: no-repeat;
+}
+
+.cuadro-shadow{
+	background-color: black;
+	opacity: 0.5;
+	height: 150px;
+	width:400px; 
+	margin:10% 30%; 
+}
+.textura2{
+	background-image: url(../img/cubes.png);
+	background-size: 100%;
+	height: 200px;
+	background-repeat: no-repeat;
+}
+h2{
+	color: rgb(83, 88, 95);
+	padding: 15px;
+	text-align:center;
+}
+.texto-h2{
+	padding: 60px;
+}
+div img{
+	height:50%; 
+	width: 100%;
+}
+em{ font-size:  40px;
+	font-family: DolceVita;
+}

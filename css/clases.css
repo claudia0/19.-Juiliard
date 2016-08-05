@@ -1,0 +1,25 @@
+/* Inserta tu codigo aqui */
+
+.cuadricula{background-image: url("../img/dance_12.jpg"), url("../img/breakdance.jpg"), url("../img/lirical-jazz.jpg");
+	background-size: 30%;
+	padding: 100px;
+	margin:30px;
+	background-position: left, center,right;
+	height: 400px, auto, auto;
+}
+.altura{
+	height: 500px;
+	width: 100%;
+}
+.cuadricula2{background-image: url("../img/arabe.jpg"), url("../img/little.jpg"), url("../img/yoga.jpg");
+	background-size: 50%;
+	height: 300px;
+	padding: 15PX;
+	width: 250px;
+	height: 300px;
+	margin:0px;
+}
+.cuadricula3{
+
+}
+.
